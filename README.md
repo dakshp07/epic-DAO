@@ -454,7 +454,7 @@ A quick review here you just:
 
 ✅ deployed your own custom ERC-20 token. Here's the [link](https://rinkeby.etherscan.io/address/0xCcF32715D936D0c76561D6c8E4457cdC85E4dc1f) for mine on Rinkeby. 
 
-✅ deployed your own ERC-1155 NFT people can mint to join your DAO. Here's the [link](https://rinkeby.etherscan.io/address/0x0257319f25978cab32aeeff89dd9c39e22c5c57b) for mine on Rinkeby and the link for [OpenSea].(https://testnets.opensea.io/collection/epicdao-membership-v2)
+✅ deployed your own ERC-1155 NFT people can mint to join your DAO. Here's the [link](https://rinkeby.etherscan.io/address/0x0257319f25978cab32aeeff89dd9c39e22c5c57b) for mine on Rinkeby and the link for [OpenSea](https://testnets.opensea.io/collection/epicdao-membership-v2).
 
 ✅ deployed your own governance contract + treasury. Here's the [link](https://rinkeby.etherscan.io/address/0x90998F4E2473A944BC4Ca45554C89a63618dc5eF) for mine on Rinkeby.
 
